@@ -1,21 +1,21 @@
 {
     "main": {
-        "name" : "Mutia Rahmatun Husna",
+        "name" : "Panji Islami",
         "description": "I am a programmer",
         "image":"profilepic.jpg",
-        "github":"https://github.com/mutiarahmatun",
-        "project":"https://github.com/mutiarahmatun",
+        "github":"https://github.com/PanjiIslami21",
+        "project":"https://github.com/PanjiIslami21",
         "bio": "Ini adalah section biografi aku",
         "contactmessage":"Hello, here I am",
-        "email": "myemail@gmail.com",
-        "phone": "877-1234-5678",
+        "email": "ipanji982@gmail.com",
+        "phone": "0813-8393-9626",
         "address":{
-            "street":"Jl Margonda Raya",
-            "city":"Depok",
+            "street":"Jl Amsar",
+            "city":"Bogor",
             "state":"West Java",
-            "zip": "16024"
+            "zip": "16030"
         },
-        "website": "https://github.com/mutiarahmatun",
+        "website": "https://github.com/PanjiIslami21",
         "resumedownload":"https://github.com/mutiarahmatun",
         "social":[
           {
